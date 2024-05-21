@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\bin\Debug\Algoritmo 357.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\bin\Debug\Algoritmo 357.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\bin\Debug\Algoritmo 357.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\obj\Debug\Algoritmo 357.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\obj\Debug\Algoritmo 357.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\obj\Debug\Algoritmo 357.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 357\Algoritmo 357\obj\Debug\Algoritmo 357.pdb
